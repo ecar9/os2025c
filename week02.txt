@@ -1,0 +1,21 @@
+리눅스 명령어
+- ls
+- ls -a
+- touch 파일명
+- cd 폴더명
+- cd ..
+- cat 파일명
+
+깃 명령어
+- git init
+- git status
+- git add 파일명
+- git add .
+- git config --global user.email "이메일주소"
+- git config --global user.name "필명"
+- git config --list 
+- git commit -m "o주차 수업 내용/커밋에 남긴 메세지"
+- git log
+- git checkout 해시코드전체 또는 앞 7자리
+- git checkout - 
+
