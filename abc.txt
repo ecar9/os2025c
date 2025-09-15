@@ -1,0 +1,178 @@
+    1  ls
+    2  touch week01.txt
+    3  cat w
+    4  cat week01.txt
+    5  cat week01.txt 
+    6  git init
+    7  ls
+    8  ls -a
+    9  cd .git/
+   10  ls
+   11  cd ..
+   12  git status
+   13  git add week01.txt 
+   14  git status
+   15  git commit -m "first commit"
+   16  git config --global user.email "yenibae0315@naver.com"
+   17  git config --list
+   18  git config --global user.name "yeni"
+   19  git config --list
+   20  git commit -m "first commit"
+   21  git log
+   22  git status
+   23  touch week02.txt
+   24  git status
+   25  git add .
+   26  git status
+   27  git commit -m "second commit"
+   28  git log
+   29  git checkout c8c39ee
+   30  git checkout -
+   31  git status
+   32  git add .
+   33  git commit -m "3rd commit"
+   34  git log
+   35  ls
+   36  ls -a
+   37  ls
+   38  ls -a
+   39  touch hello.txt
+   40  cat hello.txt
+   41  cat hello.txt
+   42  git init
+   43  ls -a
+   44  git status
+   45  git add .
+   46  git status
+   47  git commit -m "gkfl"
+   48  git log
+   49  touch hola.txt
+   50  git log
+   51  git status
+   52  git add.
+   53  git add .
+   54  git log
+   55  git commit 
+   56  ls -a
+   57  git status
+   58  git commit -m "버전2"
+   59  git log
+   60  git checkout 09ea7a2
+   61  git checkout 6eca75d
+   62  ls -a
+   63  cd .git/
+   64  cd ..
+   65  cd..
+   66  git config --list
+   67  git status
+   68  git status
+   69  touch pa.txt
+   70  git log
+   71  git checkout b2ab533
+   72  git checkout b2ab533
+   73  git status
+   74  git checkout b2ab533
+   75  git checkout b2ab533848134607b565b640d1aa475bd70ac654
+   76  git log
+   77  git checkout 7a8a3da
+   78  git checkout 7a8a3da
+   79  git checkout 7a8a3da
+   80  git log
+   81  git checkout 09ea7a2
+   82  git checkout -
+   83  git log
+   84  touch f.txt
+   85  checkout b2ab533848134607b565b640d1aa475bd70ac654
+   86  git checkout b2ab533848134607b565b640d1aa475bd70ac654
+   87  git log
+   88  git checkout -
+   89  git log
+   90  git checkout -
+   91  git log
+   92  git status
+   93  git add .
+   94  git checkout b2ab533848134607b565b640d1aa475bd70ac654
+   95  git checkout -
+   96  git log
+   97  git checkout -
+   98  git log
+   99  git checkout b2ab533848134607b565b640d1aa475bd70ac654
+  100  git checkout c8c39ee7ffd3626994e14209c401a0c4c426e9fd
+  101  git log
+  102  git checkout -
+  103  git status
+  104  git status
+  105  git add .
+  106  git status
+  107  git status
+  108  git checkout -
+  109  git log
+  110  git checkout -
+  111  git log
+  112  git status
+  113  git checkout -b <branch>
+  114  git log
+  115  git status
+  116  git checkout c8c39ee
+  117  git checkout -
+  118  git status
+  119  git branch temp
+  120  git checkout temp
+  121  git branch -f main temp
+  122  git checkout main
+  123  git branch -d temp
+  124  git push
+  125  git status
+  126  git log
+  127  ls
+  128  ls -a
+  129  git statue
+  130  git status
+  131  config list
+  132  git config --list
+  133  git add .
+  134  git log
+  135  cat week0
+  136  cat week1.tt
+  137  cat week1.txt
+  138  touch week03.txt
+  139  git commit -m "4th commit"
+  140  git log --online
+  141  git status
+  142  git add week03.txt 
+  143  git log
+  144  git commit -m "4th commit"
+  145  git log
+  146  echo "Hello go~"
+  147  echo "Hello go~" >> week03.go
+  148  cat week01.txt 
+  149  rm week03.go
+  150  git statue
+  151  git status
+  152  echo "This repository is for the open source Programming corse in the Fall 2025 semester." >> README.md
+  153  git ls
+  154  ls
+  155  git status
+  156  git add .
+  157  git add .
+  158  git status
+  159  git commit -m "5th commit & README.md"
+  160  git status
+  161  git log -- oneline
+  162  git log -- oneline
+  163  git log --oneline
+  164  git branch -M main
+  165  git status
+  166  git remote add origin https://github.com/ecar9/os2025c.git
+  167  git remote -v
+  168  git push -u origin main
+  169  git clone https://github.com/ecar9/os2025c.git
+  170  cd os2025c/
+  171  ls
+  172  ls -a
+  173  git clone https://github.com/ecar9/os2025c.git .
+  174  ls 
+  175  ls -a
+  176  git log --oneline
+  177  history
+  178  history >> abc.txt
